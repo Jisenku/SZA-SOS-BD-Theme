@@ -5,4 +5,5 @@ Based on DevilBro's Basic Background Theme: https://github.com/mwittrien/BetterD
 ## Theme Preview
 ![Settings Screen](https://a.pomf.cat/garbqk.PNG)
 ![Pinging someone & general chat](https://a.pomf.cat/rltogw.PNG)
+
 *The cat is not part of the theme, it's another plugin lol*
