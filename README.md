@@ -10,3 +10,6 @@ Based on DevilBro's Basic Background Theme: https://github.com/mwittrien/BetterD
 
 ## Installation
 Just import the css file by copypasting it, or download the css file from the releases
+
+### Notes
+The background image is a pomf.cat hosted file, if you have any qualms about using a hosted file (or a file from that website) I have uploaded the original image for you to host on a different service, or create a local image or whatever it's called.
